@@ -1,4 +1,4 @@
-# go-SOLID
+# go-SOLIDweb
 The switch from OOP Languages to golang made me look to find a way to create a basic WEB Template in a SOLID Clean Code Oop Fashion that i can use as starting point.
 
 The MiddlewareRunner Concept is just a tryout. For Production where will be a authRouteMiddlewareRunner and a
